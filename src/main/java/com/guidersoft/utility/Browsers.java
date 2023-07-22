@@ -1,2 +1,10 @@
-package com.guidersoft.utility;public enum Browsers {
+package com.guidersoft.utility;
+
+public enum Browsers {
+
+    EDGE,
+    CHROME,
+    SAFARI,
+    FIREFOX
+    ;
 }
